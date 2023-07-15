@@ -19,7 +19,7 @@ public class P_1_2{
             arr[j+1]=key;
             //12,22,7,4,2
             //      k=2   
-            // 2,  4,  7, 12, 22     <--elements of array
+            // 2,  4,  7, 12, 22    <--elements of array
             // 0   1   2  3  4      <--index
             // j             i
         }
